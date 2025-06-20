@@ -4,6 +4,9 @@
 [![License](https://img.shields.io/badge/License-CC%20BY--NC%204.0-blue)](https://creativecommons.org/licenses/by-nc/4.0/)
 [![Python](https://img.shields.io/badge/Python-3.8+-blue)](https://www.python.org/downloads/)
 
+## 🔄 Dataset Generation Framework Pipeline
+![Pipeline Diagram](pipeline_framework.jpg)
+
 ## 📖 Overview
 
 SustainableQA is a large-scale question-answering dataset designed for corporate sustainability reporting and EU Taxonomy compliance. The dataset provides comprehensive QA pairs extracted from corporate sustainability reports and annual reports, enabling the development of AI systems for sustainability compliance and ESG analysis.
@@ -55,9 +58,9 @@ SustainableQA is a large-scale question-answering dataset designed for corporate
 | **EU Taxonomy** | 1.45 | 78.8% | **21.2%** | Highest complexity |
 | **Sustainability** | 1.32 | 84.6% | 15.4% | Lowest complexity |
 
-## 🔄 Dataset Generation Framework Pipeline
 
-![Pipeline Diagram](pipeline_diagram.pdf)
+
+
 
 ## 📋 Sample Questions
 
