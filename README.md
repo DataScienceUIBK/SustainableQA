@@ -6,7 +6,7 @@
 
 ## 🔄 Dataset Generation Framework Pipeline
 <div align="center">
-  <img src="pipeline_diagram.jpg" alt="Pipeline Diagram" style="border: 1px solid #d0d7de; border-radius: 6px; padding: 16px; background-color: #f6f8fa; max-width: 100%;">
+  <img src="pipeline_framework.jpg" alt="Pipeline Diagram" style="border: 1px solid #d0d7de; border-radius: 6px; padding: 16px; background-color: #f6f8fa; max-width: 100%;">
 </div>
 ## 📖 Overview
 
