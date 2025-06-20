@@ -5,8 +5,9 @@
 [![Python](https://img.shields.io/badge/Python-3.8+-blue)](https://www.python.org/downloads/)
 
 ## 🔄 Dataset Generation Framework Pipeline
-![Pipeline Diagram](pipeline_framework.jpg)
-
+<div align="center">
+  <img src="pipeline_diagram.jpg" alt="Pipeline Diagram" style="border: 1px solid #d0d7de; border-radius: 6px; padding: 16px; background-color: #f6f8fa; max-width: 100%;">
+</div>
 ## 📖 Overview
 
 SustainableQA is a large-scale question-answering dataset designed for corporate sustainability reporting and EU Taxonomy compliance. The dataset provides comprehensive QA pairs extracted from corporate sustainability reports and annual reports, enabling the development of AI systems for sustainability compliance and ESG analysis.
