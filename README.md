@@ -91,11 +91,11 @@ This dataset is created for academic research at University of Innsbruck using p
 If you use this dataset in your research, please cite our work:
 
 ```bibtex
-@dataset{sustainableqa2024,
+@dataset{sustainableqa2025,
   title={SustainableQA: A Comprehensive Question Answering Dataset for Corporate Sustainability and EU Taxonomy Reporting},
   author={Mohammed Ali and Abdelrahman Abdallah and Adam Jatowt},
   institution={University of Innsbruck},
-  year={2024},
+  year={2025},
   url={https://github.com/DataScienceUIBK/SustainableQA},
   license={CC BY-NC 4.0}
 }
