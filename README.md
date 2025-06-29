@@ -85,22 +85,6 @@ A: The company conducts a comprehensive evaluation across all six environmental 
 This dataset is created for academic research at University of Innsbruck using publicly available corporate reports. All source materials were published for stakeholder transparency and regulatory compliance. The dataset is released under CC BY-NC 4.0 license for non-commercial research and educational use.
 
 
-
-## 📚 Academic Citation
-
-If you use this dataset in your research, please cite our work:
-
-```bibtex
-@dataset{sustainableqa2025,
-  title={SustainableQA: A Comprehensive Question Answering Dataset for Corporate Sustainability and EU Taxonomy Reporting},
-  author={Mohammed Ali and Abdelrahman Abdallah and Adam Jatowt},
-  institution={University of Innsbruck},
-  year={2025},
-  url={https://github.com/DataScienceUIBK/SustainableQA},
-  license={CC BY-NC 4.0}
-}
-```
-
 ## 📄 License
 
 This dataset is released under the [Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/). This means you can use, share, and adapt the material for non-commercial purposes with proper attribution.
