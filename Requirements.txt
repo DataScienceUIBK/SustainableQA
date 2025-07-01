@@ -1,0 +1,17 @@
+# Core AI/ML Libraries
+spacy>=3.7.0
+transformers>=4.35.0
+torch>=2.0.0
+
+# API Clients
+openai>=1.0.0
+together>=0.2.0
+
+# Optional: Development and Testing
+pytest>=7.0.0
+black>=22.0.0
+flake8>=5.0.0
+
+# Note: After installation, you'll need to download spaCy language models:
+# python -m spacy download en_core_web_sm
+# python -m spacy download en_core_web_lg
