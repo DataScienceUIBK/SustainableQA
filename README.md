@@ -15,17 +15,12 @@
 
 SustainableQA is a large-scale question-answering dataset designed for corporate sustainability reporting and EU Taxonomy compliance. The dataset provides comprehensive QA pairs extracted from corporate sustainability reports and annual reports, enabling the development of AI systems for sustainability compliance and ESG analysis.
 
-## 📊 Source Data: Online Corporate Reports
-
-Our dataset is derived from **61 publicly available corporate reports** from German and Austrian companies (2020-2024), including annual reports, sustainability reports, and EU Taxonomy disclosures downloaded from official corporate websites.
-
 ## 🎯 Key Features
 
 - **195,287** total QA pairs from corporate sustainability reports
 - **88,792** factoid questions + **102,539** non-factoid questions + **3,956** table-based QA
 - **Three domains**: EU Taxonomy, ESG, and Sustainability
 - **Multi-span complexity**: 16.7% of questions require multiple text spans
-- **German & Austrian focus**: 61 reports from DACH region companies
 
 ## 📈 Dataset Statistics
 
