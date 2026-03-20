@@ -96,7 +96,8 @@ This dataset is released under the [Creative Commons Attribution-NonCommercial 4
 - 💾 **Dataset**: [GitHub Repository](https://github.com/DataScienceUIBK/SustainableQA)
 - 🏛️ **Institution**: [University of Innsbruck](https://www.uibk.ac.at/)
 - 📧 **Contact**: [mohammed.ali@uibk.ac.at](mailto:mohammed.ali@uibk.ac.at)
-- 📄 **Academic Paper**: [Research Publication](https://github.com/DataScienceUIBK/SustainableQA)
+- 📄 **Academic Paper**: [Research Publication]
+- (https://arxiv.org/abs/2508.03000)
 
 ---
 
