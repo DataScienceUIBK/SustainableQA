@@ -31,22 +31,22 @@ SustainableQA is a large-scale question-answering dataset designed for corporate
 | **Non-factoid Questions** | 102,539 | Descriptive, explanatory answers |
 | **Table-based QA** | 3,956 | From 218 complex tables |
 | **Text Passages** | 8,067 | Semantically coherent segments |
-| **Source Reports** | 61 | German & Austrian companies |
+| **Source Reports** | 61 | Companies listed on European stock exchanges |
 
 ### Category Distribution
 | **Category** | **Passages** | **Factoid QA** | **Non-factoid QA** | **Total QA** |
 |--------------|-------------|----------------|-------------------|--------------|
 | **ESG** | 4,320 | 48,260 | 55,139 | 103,399 |
 | **EU Taxonomy** | 747 | 8,260 | 8,906 | 17,166 |
-| **Sustainability** | 3,000 | 32,272 | 38,494 | 70,746 |
+| **Sustainability** | 3,000 | 32,272 | 38,494 | 70,766 |
 
 ### Answer Complexity Analysis
 | **Category** | **Mean Spans** | **Single-Span** | **Multi-Span** | **Complexity Notes** |
 |--------------|----------------|-----------------|----------------|-------------------|
-| **Overall** | 1.36 | 83.3% | 16.7% | EU Taxonomy most complex |
-| **ESG** | 1.37 | 83.1% | 16.9% | Moderate complexity |
+| **Overall** | 1.35 | 83.3% | 16.7% | EU Taxonomy most complex |
+| **ESG** | 1.36 | 83.1% | 16.9% | Moderate complexity |
 | **EU Taxonomy** | 1.45 | 78.8% | **21.2%** | Highest complexity |
-| **Sustainability** | 1.32 | 84.6% | 15.4% | Lowest complexity |
+| **Sustainability** | 1.31 | 84.6% | 15.4% | Lowest complexity |
 
 
 
